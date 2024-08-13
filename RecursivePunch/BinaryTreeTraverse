@@ -20,3 +20,18 @@ postOder():
 postOrder():
 visitcurentNode
 => 4 -> 5 -> 2 -> 6 -> 7 -> 3 -> 1
+
+NOTE:
+13/08/24: i have gain meaningful insights from gods.
+i understand how recursion in tree work now. Such a rewarded achievement.
+that is for DFS.
+I can crack easy DFS like pre-order, in-order, post-order like piece of cake. Before this,
+it was really a big struggle for my mental.
+
+I think that why i feel thankful for the time I has spent on this problem. These times builds up
+my understandings central to the DFS. Overtime, I realized by these building bricks it finally break
+into a realization bring me such a great insightful for this specific problem but also enlighten me
+a broader acknowledgement about a bigger thing that the process for understanding, belief about myself,
+and the reward through commitment of time I have dedicated to.
+
+Again, big congrats, happy coding!
